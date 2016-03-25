@@ -1,3 +1,8 @@
+/**********
+ * author: Tanvi@
+ * description: This file is regrading integration of MapsAPI which includes
+ * A marker set on India Gate and also finds user's current location.
+ **********/
 package com.tp.googlemapsapi;
 
 import android.Manifest;
